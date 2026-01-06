@@ -162,6 +162,8 @@ scontent.fallback.cdninstagram.com
 scontent-fallback.cdninstagram.com
 scontent-lax3-1.cdninstagram.com
 scontent-lax3-2.cdninstagram.com
+scontent-lax7-1.cdninstagram.com
+scontent-lax7-2.cdninstagram.com
 scontent-lga3-1.cdninstagram.com
 scontent-lga3-2.cdninstagram.com
 scontent-ord5-1.cdninstagram.com
