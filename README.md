@@ -25,10 +25,8 @@ The `mobile_doomscroll_blocklist.txt` file contains domains for major social med
 
 Add this URL to your Pi-hole's adlists:
 ```
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/mobile_doomscroll_blocklist.txt
+https://raw.githubusercontent.com/msteele3/pihole-mobile-blocklist/master/mobile_doomscroll_blocklist.txt
 ```
-
-Replace `YOUR_USERNAME` and `YOUR_REPO_NAME` with your actual GitHub username and repository name.
 
 ## 📖 Full Instructions
 
