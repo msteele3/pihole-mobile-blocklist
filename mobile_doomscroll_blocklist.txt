@@ -3,7 +3,7 @@
 # Add this list to your Pi-hole under Group Management > Adlists
 
 # ============================================
-# TIKTOK BLOCKS
+# TIKTOK BLOCKS - COMPREHENSIVE
 # ============================================
 tiktok.com
 www.tiktok.com
@@ -41,18 +41,6 @@ api28.tiktok.com
 api29.tiktok.com
 api30.tiktok.com
 tiktokcdn.com
-p16-tiktokcdn-com.akamaized.net
-p16-tiktokcdn-com-hkg.akamaized.net
-p16-tiktokcdn-com-lhr.akamaized.net
-p16-tiktokcdn-com-mia.akamaized.net
-p16-tiktokcdn-com-sin.akamaized.net
-p16-tiktokcdn-com.akamaized.net
-v16-tiktokcdn-com.akamaized.net
-v16-tiktokcdn-com-hkg.akamaized.net
-v16-tiktokcdn-com-lhr.akamaized.net
-v16-tiktokcdn-com-mia.akamaized.net
-v16-tiktokcdn-com-sin.akamaized.net
-tiktokv.com
 tiktokcdn-us.com
 tiktokp.com
 tiktok-shop.com
@@ -62,6 +50,95 @@ tiktok.onelink.me
 tiktok.app.link
 tiktokmusic.onelink.me
 tiktokmusic.app.link
+
+# TikTok Dynamic Service Domains (from your logs)
+tiktokv.us
+oecim16-normal-useast5.tiktokv.us
+oecim16-normal-useast5.tiktokv.us
+sf-ssp.tiktokcdn-us.com
+a29.us.akamai.net
+v16m.tiktokcdn-us.com
+a1618.b.akamai.net
+p16-tako-img-gen-useast8.tiktokcdn-us.com
+location-v6-ttp2.tiktokv.us
+video.us.bytedance.map.fastly.net
+sf16.tiktokcdn-us.com
+api16-normal-useast5.tiktokv.us
+cp-rp16-normal-useast8.tiktokv.us
+a668.t.akamai.net
+mon16-normal-useast8.tiktokv.us
+v19.tiktokcdn-us.com
+v45-ttp.gpm.ttoverseaus.net
+v45.tiktokcdn-us.com
+us-central1-gcp.api.sc-gw.com
+libra16-normal-useast8.tiktokv.us
+api19-core-useast8.tiktokv.us
+webcast19-normal-useast8.tiktokv.us
+api19-normal-useast8.tiktokv.us
+0rtt.us.bytedance.map.fastly.net
+oec19-normal-useast5.tiktokv.us
+oec16-normal-useast5.tiktokv.us
+hotapi16-normal-useast8.tiktokv.us
+webcast-ws16-normal-useast8.tiktokv.us
+gecko16-normal-useast8.tiktokv.us
+frontier-ttp2.tiktokv.us
+mssdk16-normal-useast8.tiktokv.us
+roovza.launches.appsflyersdk.com
+d3ko2p4zmfgl2g.cloudfront.net
+p16-common.tiktokcdn-us.com
+p16-common-sign.tiktokcdn-us.com
+p19-common-ipv6-sign.tiktokcdn-us.com
+p19-common-sign.tiktokcdn-us.com
+oec16-normal-useast8.tiktokv.us
+vcs16-normal-useast8.tiktokv.us
+tnc16-normal-useast8.tiktokv.us
+log16-normal-useast8.tiktokv.us
+lf19-gecko-source.tiktokcdn-us.com
+lf16-gecko-source.tiktokcdn-us.com
+api16-normal-useast8.tiktokv.us
+api16-core-useast8.tiktokv.us
+p16-common-ipv6-sign.tiktokcdn-us.com
+lf16-gecko-source.tiktokcdn-us.com
+webcast16-normal-useast8.tiktokv.us
+dualstack.us.bytedance.map.fastly.net
+us.bytedance.map.fastly.net
+a2047.mm3.akamai.net
+a2047.w182.akamai.net
+a2047.w183.akamai.net
+a2047.w184.akamai.net
+a2047.w185.akamai.net
+a2047.dscw183.akamai.net
+a2047.dscw45.akamai.net
+a1437.dscw45.akamai.net
+a1437.b.akamai.net
+a1431.dscb.akamai.net
+a874.b.akamai.net
+a194.t.akamai.net
+a175.b.akamai.net
+e6858.dsce9.akamaiedge.net
+
+# TikTok Regional CDN Patterns
+p16-tiktokcdn-com.akamaized.net
+p16-tiktokcdn-com-hkg.akamaized.net
+p16-tiktokcdn-com-lhr.akamaized.net
+p16-tiktokcdn-com-mia.akamaized.net
+p16-tiktokcdn-com-sin.akamaized.net
+v16-tiktokcdn-com.akamaized.net
+v16-tiktokcdn-com-hkg.akamaized.net
+v16-tiktokcdn-com-lhr.akamaized.net
+v16-tiktokcdn-com-mia.akamaized.net
+v16-tiktokcdn-com-sin.akamaized.net
+
+# TikTok Analytics & Tracking
+app-analytics-services.com
+app-measurement.com
+unified.adsafeprotected.com
+
+# TikTok Third-party Services
+appsflyersdk.com
+bytedance.map.fastly.net
+tiktokcdn-us.com
+tiktokv.us
 
 # ============================================
 # INSTAGRAM BLOCKS - COMPREHENSIVE
