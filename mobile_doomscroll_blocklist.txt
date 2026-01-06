@@ -63,6 +63,7 @@ p16-tako-img-gen-useast8.tiktokcdn-us.com
 location-v6-ttp2.tiktokv.us
 video.us.bytedance.map.fastly.net
 sf16.tiktokcdn-us.com
+sf16-va.tiktokcdn-us.com
 api16-normal-useast5.tiktokv.us
 cp-rp16-normal-useast8.tiktokv.us
 a668.t.akamai.net
@@ -115,6 +116,7 @@ a1431.dscb.akamai.net
 a874.b.akamai.net
 a194.t.akamai.net
 a175.b.akamai.net
+a1757.b.akamai.net
 e6858.dsce9.akamaiedge.net
 
 # TikTok Regional CDN Patterns
@@ -156,6 +158,8 @@ partners.instagram.com
 
 # Instagram Content Delivery Networks (CDNs)
 scontent.cdninstagram.com
+scontent.fallback.cdninstagram.com
+scontent-fallback.cdninstagram.com
 scontent-lax3-1.cdninstagram.com
 scontent-lax3-2.cdninstagram.com
 scontent-lga3-1.cdninstagram.com
@@ -170,6 +174,8 @@ scontent-sea1-1.cdninstagram.com
 scontent-sea1-2.cdninstagram.com
 scontent-sjc3-1.cdninstagram.com
 scontent-sjc3-2.cdninstagram.com
+scontent-sjc6-1.cdninstagram.com
+scontent-sjc6-2.cdninstagram.com
 scontent-mia3-1.cdninstagram.com
 scontent-mia3-2.cdninstagram.com
 scontent-iad3-1.cdninstagram.com
@@ -313,6 +319,8 @@ crash.instagram.com
 logger.instagram.com
 pixel.instagram.com
 connect.instagram.com
+i-fallback.instagram.com
+star.fallback.c10r.instagram.com
 
 # Instagram Third-party Services
 instagram-maps-api.facebook.com
@@ -554,6 +562,12 @@ fbcdn.net
 static.xx.fbcdn.net
 external.xx.fbcdn.net
 scontent.xx.fbcdn.net
+
+# UUID-based fbcdn.net domains (from Instagram logs)
+acd76f6d-285c-470f-9c61-8587a11b26ee-netseer-ipaddr-assoc.xz.fbcdn.net
+15ab1383-0bc2-4e72-939b-6455821391cd-netseer-ipaddr-assoc.xy.fbcdn.net
+15ab1383-0bc2-4e72-939b-6455821391cd-netseer-ipaddr-assoc.xz.fbcdn.net
+
 connect.facebook.net
 apps.facebook.com
 developers.facebook.com
@@ -562,6 +576,11 @@ ads.facebook.com
 messenger.com
 www.messenger.com
 m.messenger.com
+
+# Facebook C10R Domains (from Instagram logs)
+chat-e2ee-ig-p42.c10r.facebook.com
+dgw-ig.c10r.facebook.com
+dgw.c10r.facebook.com
 
 # ============================================
 # SNAPCHAT BLOCKS
